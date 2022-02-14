@@ -1,4 +1,4 @@
 This is a repository dedicated to hardware for FDM printer mods that enable direct printing of metal, plastic, and ceramic through conventional FDM style cartesian printers and their associatedpoint wise scanning design.
 Essentially, we pump air through a carburetor which contains metal/ceramic/plastic loaded fuel (ethanol, gasoline etc.) this entrains particles of the material in droplets of the fuel into the pumped airstream and sends them to 
-a conventional E3D extruder hotend which ignites the fuel mixture and enables a continuous falme spray like deposition process, controlled by an FDM printer cartesian stage to form 3D dimensional objects in a continuous machine path, layer by layer. 
+a conventional E3D extruder hotend which ignites the fuel mixture and enables a continuous flame spray like deposition process, controlled by an FDM printer cartesian stage to form 3D dimensional objects in a continuous machine path, layer by layer. 
 
